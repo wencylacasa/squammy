@@ -1,0 +1,8 @@
+{
+  "name": "Squammy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bf8a51ee"
+}
